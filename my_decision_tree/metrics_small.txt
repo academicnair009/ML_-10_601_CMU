@@ -1,0 +1,11 @@
+
+error(train): 0.125
+error(test): 0.257732
+error(train): 0.214286
+error(test): 0.285714
+error(train): 0.08
+error(test): 0.247423
+error(train): 0.08
+error(test): 0.247423
+error(train): 0.125
+error(test): 0.257732
