@@ -1,1 +1,1 @@
-# ML_-10_601_CMU
+Ml algo implementation using python and numpy only.
